@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Guide Blender Débutant",
+    "author": "Jean Dupont",
+    "category": "3D",
+    "subcategory": "Blender",
+    "link": "https://example.com/blender-guide",
+    "pdf": "https://example.com/blender-guide.pdf",
+    "date": "2023-09-12"
+  },
+  {
+    "name": "Tutoriel CSS Grid",
+    "author": "Claire Martin",
+    "category": "Web",
+    "subcategory": "CSS",
+    "link": "https://example.com/css-grid",
+    "pdf": "",
+    "date": "2022-11-05"
+  },
+  {
+    "name": "Manuel Unity Avancé",
+    "author": "Studio XYZ",
+    "category": "3D",
+    "subcategory": "Unity",
+    "link": "https://example.com/unity-avance",
+    "pdf": "https://example.com/unity-avance.pdf",
+    "date": "2024-01-15"
+  },
+  {
+    "name": "Introduction à React",
+    "author": "Léo L.",
+    "category": "Web",
+    "subcategory": "JavaScript",
+    "link": "https://example.com/react-intro",
+    "pdf": "",
+    "date": "2023-06-20"
+  }
+]
