@@ -41,7 +41,16 @@
     "category": "Social and Diversity",
     "subcategory": "LGBTQIA+",
     "link": "https://www.ipsos.com/sites/default/files/ct/news/documents/2023-05/Ipsos%20LGBT%2B%20Pride%202023%20Global%20Survey%20Report%20-%20rev.pdf",
-    "pdf": "",
+    "pdf": "https://assets.publishing.service.gov.uk/media/5b3cb6b6ed915d39fd5f14df/GEO-LGBT-Survey-Report.pdf",
     "date": "2023"
+  },
+  {
+    "name": "NATIONAL LGBT SURVEY (2018)",
+    "author": "UK GOV",
+    "category": "Social and Diversity",
+    "subcategory": "LGBTQIA+",
+    "link": "https://assets.publishing.service.gov.uk/media/5b3cb6b6ed915d39fd5f14df/GEO-LGBT-Survey-Report.pdf",
+    "pdf": "https://assets.publishing.service.gov.uk/media/5b3cb6b6ed915d39fd5f14df/GEO-LGBT-Survey-Report.pdf",
+    "date": "2018"
   }
 ]
